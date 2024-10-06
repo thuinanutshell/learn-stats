@@ -14,3 +14,6 @@ I'm currently reading these books and trying to upload my solutions to their pra
 ### Posterior
 1. Posterior Distribution
 2. Posterior-predictive
+
+## Linear Models
+- Assumptions
